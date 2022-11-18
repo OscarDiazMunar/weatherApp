@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wheatertime</string>
+    <string name="title_search_bar">Search</string>
+    <string name="menu_hint">Search place</string>
+</resources>
